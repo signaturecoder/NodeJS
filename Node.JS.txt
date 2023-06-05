@@ -1,0 +1,17 @@
+05-06-2023 ( MERN STACK DEVELOPER )
+
+Start With Node.JS Fundamentals - 
+
+Topics Covered - 
+
+1. What is node.js?
+2. Why do we learn node.js?
+3. How do we implement node.js in our day to day implementation?
+
+4. What are modules ?
+5. How many types of modules?
+6. How to use different kinds of modules like CommonJS module, ESModule?
+7. What is fs-module, os module?
+
+8. What is Events?
+9. What are event loop?
